@@ -22,5 +22,4 @@ This project implements a collaborative-based recommendation system to suggest p
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recommendation-system.git
-   cd recommendation-system
+   git clone https://github.com/Anas7940/Video-recommendation-assignment/
